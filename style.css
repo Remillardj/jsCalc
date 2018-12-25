@@ -1,0 +1,53 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  background-color: #0FC3FF;
+}
+
+h1 {
+  text-align: center;
+  color: #FFFFFF;
+}
+
+section {
+  min-height: 90px;
+  padding-top: 10px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.ac-style {
+  background-color: red;
+  border-color: red;
+  color: white;
+}
+
+button {
+  background-color: white;
+  border-color: black;
+  width: 100%;
+  padding: 20px 30px;
+}
+
+td {
+  text-align: center;
+}
+
+.calc {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 0 auto;
+}
+
+.calc td {
+  overflow: hidden;
+  word-break: normal;
+}
+
+.calc th {
+  padding: 20px 20px;
+  background-color: #fff;
+  border-width: 1px;
+  border-style: solid;
+  height: 65px;
+}
